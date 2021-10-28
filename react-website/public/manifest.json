@@ -1,0 +1,31 @@
+{
+    "name": "Hotsaka",
+    "short_name": "Hotsaka",
+    "theme_color": "#f2933d",
+    "background_color": "#191c1b",
+    "display": "standalone",
+    "orientation": "portrait",
+    "scope": "/",
+    "start_url": "/",
+    "description": "Hotsaka is a social media platform for models.",
+    "icons": [
+        {
+            "src": "/seo-icons/logo144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/seo-icons/logo192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "/seo-icons/logo512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "splash_pages": null,
+    "prefer_related_applications": false
+}
