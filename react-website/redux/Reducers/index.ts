@@ -1,10 +1,10 @@
 import { combineReducers } from "redux";
 import { ActivityData } from "../Actions/Activity.action";
-import { ConfigState } from "../Actions/config.action";
+import { ConfigState } from "../Actions/Config.action";
 import { PostObject } from "../Actions/Post.action";
 import { Profile, UsersAction } from "../Actions/Users.action";
 import ActivityReducer from "./ActivityReducer";
-import ConfigReducer from "./configReducer";
+import ConfigReducer from "./ConfigReducer";
 import PostReducers from "./PostReducers";
 import ProfileReducer, { ProfileType } from "./ProfileReducer";
 import SearchReducer, { SearchProps } from "./SearchReducer";

@@ -1,4 +1,4 @@
-import { ConfigState } from "../Actions/config.action";
+import { ConfigState } from "../Actions/Config.action";
 import { ActionType, ActionTypes } from "../ActionTypes"
 
 
