@@ -1,0 +1,6 @@
+{
+    "name":"shopitnow backend - production",
+    "mail": {
+        "host": "prod-mail-server"
+    }
+}

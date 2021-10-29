@@ -696,10 +696,14 @@
 }
 .playlist_card .course_title{
     padding-top: 10px;
+    font-size: 100%;
 }
 .playlist_card .course_desc{
     line-height: 1.2;
     font-size: 14px;
+}
+.playlist_details {
+    min-height: 150px;    
 }
 
 .lesson_card_container, .playlist_card_container {
@@ -721,6 +725,8 @@
 }
 .lesson_card .course_title{
     padding-top: 10px;
+    font-size: 100%;
+
 }
 .lesson_card .course_desc{
     line-height: 1.2;

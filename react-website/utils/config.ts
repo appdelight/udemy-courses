@@ -1,10 +1,10 @@
-export const APP_NAME:string = "Udemy Courses";
-export const TITLE:string = "Udemy Courses";
-export const DESCRIPTION:string = "Udemy Courses ";
+export const APP_NAME:string = "Coursebag";
+export const TITLE:string = "Coursebag - Udemy Courses";
+export const DESCRIPTION:string = "Coursebag - Udemy Courses ";
 export const BANNER_IMAGE:string = "/banner_image.svg";
 export const PRIMARY_COLOR:string = "#ec46a6";
 export const WEBSITE:string = "https://udc.appdelite.ml/";
-export const API_URL:string = "https://udcapi.appdelite.ml/";
+export const API_URL:string = "http://localhost:8088/";
 
 
 

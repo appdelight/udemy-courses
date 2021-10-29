@@ -51,25 +51,6 @@ class MyDocument extends Document {
                         href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap"
                         rel="stylesheet"
                     />
-
-                    <link
-                        rel="preload"
-                        as="font"
-                        type="font/ttf"
-                        href="/font/Avenir-Book.ttf"
-                    />
-                    <link
-                        rel="preload"
-                        as="font"
-                        type="font/ttf"
-                        href="/font/Avenir-Light.ttf"
-                    />
-                    <link
-                        rel="preload"
-                        as="font"
-                        type="font/ttf"
-                        href="/font/Avenir-Roman.ttf"
-                    />
                 </Head>
                 <body>
                     <Main />
