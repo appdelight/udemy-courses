@@ -3,8 +3,8 @@ export const TITLE:string = "Coursebag - Udemy Courses";
 export const DESCRIPTION:string = "Coursebag - Udemy Courses ";
 export const BANNER_IMAGE:string = "/banner_image.svg";
 export const PRIMARY_COLOR:string = "#ec46a6";
-export const WEBSITE:string = "https://udc.appdelite.ml/";
-export const API_URL:string = "http://localhost:8088/";
+export const WEBSITE:string = "https://coursebag.appdelite.ml/";
+export const API_URL:string = "https://coursebag-api.appdelite.ml/";
 
 
 
